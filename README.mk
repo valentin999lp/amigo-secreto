@@ -39,6 +39,14 @@ Una aplicación web sencilla para gestionar un sorteo de **Amigo Secreto**, dond
 
 ---
 
+## 🔹 Versión online
+
+Puedes ver la aplicación publicada en GitHub Pages en el siguiente enlace:  
+
+🔗 [Amigo Secreto en línea](https://valentin999lp.github.io/amigo-secreto/)
+
+---
+
 ## 🔹 Estructura de archivos
 
 /amigo-secreto
